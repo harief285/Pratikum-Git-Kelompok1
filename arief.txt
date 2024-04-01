@@ -2,3 +2,5 @@ pratikum git
 1.bangun
 2.sahur
 3.sholat
+4.mandi
+5.berangkat
